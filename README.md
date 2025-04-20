@@ -1,40 +1,41 @@
-# FacMata VPN服务官方平台入口
+# FacMata机场官网地址
 
-当前有效访问地址：[fmta.boo](https://url.gogogomiao.one/QYTN)
+最新地址：[fmta.boo](https://url.gogogomiao.one/QYTN)
 
-## 平台简介
+## FacMata介绍
 
-FacMata VPN拥有全球多地区高速专线网络，采用双5Gbps冗余线路设计，确保卓越的网络传输稳定性。
+FacMata机场，接入多地区高速跨境链路，上联 5Gbps 冗余，承载能力优秀。
 
-影视支持：完美适配各大流媒体平台，同时涵盖各类小众影视资源。
+流媒体：主流服务完全 解锁，冷门资源尽力保证。
 
-独家提供EMBY媒体库服务，整合中美英日热门影视动漫内容。我们的EMBY服务器相当于为您打造专属的Netflix/爱奇艺平台，持续免费更新最新影视资源！
+提供私有 EMBY 媒体服务器接入，国美英日剧、动画资源一网打尽。EMBY 服务器可以理解为我们自建的 Netflix 或爱奇艺平台，免费向大家提供最新电影电视剧资源！
 
-## 限时促销活动
+## FacMata优惠码
 
-新春特惠：输入优惠码ANNUALLY-30OFF可享年付套餐7折优惠
+新春七折优惠码：ANNUALLY-30OFF
 
-常规折扣方案：
+设置常驻常规优惠码：
 
-ANNUALLY-20OFF 年付及以上套餐立减20%
+ANNUALLY-20OFF 年付及以上 八折
 
-QUARTERLY/SEMIANNUALLY-10OFF 半年/季度套餐享受9折优惠
+QUARTERLY/SEMIANNUALLY-10OFF 半年付和季付 九折
 
-重要提醒：ANNUALLY-30OFF优惠码适用于所有年度套餐，优惠截止时间为2月5日上午
+ANNUALLY-30OFF 在任意年付套餐上使用，从现在至 2.5 上午
 
-## 订阅价格方案
+## FacMata价格
 
-| 服务套餐 | Standard Mini | Standard Lite | Standard |
-|----------|---------------|---------------|----------|
-| 月付     | -             | ¥9.99         | ¥19.99   |
-| 季付     | -             | ¥29.99        | ¥59.99   |
-| 半年付   | -             | ¥59.99        | ¥119.99  |
-| 年付     | -             | ¥119.99       | ¥239.99  |
+|套餐|Standard Mini|Standard Lite|Standard|
+|----|----|----|----|
+|月付|-|¥9.99|¥19.99|
+|季付|-|¥29.99|¥59.99|
+|半年付|-|¥59.99|¥119.99|
+|年付|-|¥119.99|¥239.99|
 
-**流量增值包**
+**一次性**
 
-Standard Lite 120G流量 ¥99.99
+Standard Lite 120G ¥ 99.99
 
-Standard 300G流量 ¥199.99
+Standard 300G ¥ 199.99
 
-Standard Pro 800G流量 ¥299.99
+Standard Pro 800G ¥ 299.99
+
